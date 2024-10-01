@@ -1,0 +1,7 @@
+*.xlsx
+*.cfg
+*.pyc
+bin
+include
+lib
+.DS_Store
